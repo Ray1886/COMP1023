@@ -6,6 +6,6 @@
 
 ## Directory Structure
 
-* **labs/**: Weekly laboratory exercises.
 * **assignments/**: Major programming assignments.
+* **labs/**: Weekly laboratory exercises.
 
